@@ -9,8 +9,8 @@ words_per_minute: 200
 baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Marcos Ramon
+description: Professor de filosofia, pesquisando estética e cibercultura.
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -26,11 +26,11 @@ twitter: tryghost # replace by your username
 facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: jekyllt # replace with your disqus username
+disqus: True
+disqus_shortname: mramon
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-25904919-5
 
 # Permalinks
 permalink: /:title
